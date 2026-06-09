@@ -2,7 +2,9 @@
 
 Reusable skills and Codex agent templates for structured implementation, multi-agent code review, review/fix loops, and workflow tuning.
 
-[![skills.sh](https://skills.sh/b/krajcik/ralph-agent-skills)](https://skills.sh/krajcik/ralph-agent-skills)
+[![skills.sh](https://www.skills.sh/b/krajcik/ralph-agent-skills?v=2)](https://www.skills.sh/krajcik/ralph-agent-skills/ralph-flow)
+[![ralph-flow](https://img.shields.io/badge/skill-ralph--flow-blue)](https://www.skills.sh/krajcik/ralph-agent-skills/ralph-flow)
+[![ralph-tune](https://img.shields.io/badge/skill-ralph--tune-blue)](https://www.skills.sh/krajcik/ralph-agent-skills/ralph-tune)
 
 ## Skills
 
