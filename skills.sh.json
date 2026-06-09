@@ -1,0 +1,15 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Ralph Workflow",
+      "description": "Skills for structured implementation, multi-agent review, fixer loops, and workflow tuning.",
+      "skills": [
+        "ralph-flow",
+        "ralph-tune"
+      ]
+    }
+  ]
+}
+
